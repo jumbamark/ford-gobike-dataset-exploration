@@ -15,19 +15,3 @@ Outside of the main variables of interest, I verified that the the genders have 
 ## Key Insights for Presentation
 
 For the presentation, I focus on the influence of user type. I start by introducing the numeric variable duration in seconds followed by other categorical variables (user type, start_hour and start_weekday). Afterwards I'll plot to see impacts of user type on duration and usage(in number of rides) and focus on how different groups of users use the service.
-
-
-
-
-For the presentation, I focus on just the influence of the four Cs of diamonds
-and leave out most of the intermediate derivations. I start by introducing the
-price variable, followed by the pattern in carat distribution, then plot the
-transformed scatterplot.
-
-Afterwards, I introduce each of the categorical variables one by one. To start,
-I use the violin plots of price and carat across clarity. I'm only looking at
-the clarity grade plot here since it's the clearest example of how the
-categorical quality grades affect diamond pricing. The other two categorical
-variables, cut and color, are covered afterwards, using point plots. I've made
-sure to use different color palettes for each quality variable to make sure it
-is clear that they're different between plots.
