@@ -1,4 +1,4 @@
-# Ford GoBike Data Explorationataset Exploration Title)
+# Ford GoBike Data Exploration
 ## by Jumba Mark
 
 
